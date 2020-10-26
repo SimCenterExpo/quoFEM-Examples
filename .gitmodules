@@ -10,3 +10,12 @@
 [submodule "quo-04"]
 	path = quo-04
 	url = https://github.com/SimCenterExpo/quo-04.git
+[submodule "quo-05"]
+	path = quo-05
+	url = https://github.com/SimCenterExpo/quo-05.git
+[submodule "quo-06"]
+	path = quo-06
+	url = https://github.com/SimCenterExpo/quo-06.git
+[submodule "quo-07"]
+	path = quo-07
+	url = https://github.com/SimCenterExpo/quo-07.git
