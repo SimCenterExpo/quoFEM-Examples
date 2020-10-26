@@ -4,7 +4,7 @@ template: partials/filter_card_index3.html
 tab_title: UQ
 template_data:
     gallery_items:
-        input.json:
+        src/input.json:
           UQ: UQ_Method.uqType
           FEM: fem.program
     filters:
