@@ -1,0 +1,9 @@
+[submodule "quo-01"]
+	path = quo-01
+	url = https://github.com/SimCenterExpo/quo-01.git
+[submodule "quo-02"]
+	path = quo-02
+	url = https://github.com/SimCenterExpo/quo-02.git
+[submodule "quo-03"]
+	path = quo-03
+	url = https://github.com/SimCenterExpo/quo-03.git
