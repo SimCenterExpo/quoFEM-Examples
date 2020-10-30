@@ -19,3 +19,6 @@
 [submodule "quo-07"]
 	path = quo-07
 	url = https://github.com/SimCenterExpo/quo-07.git
+[submodule "qfem-0012"]
+	path = qfem-0012
+	url = https://github.com/SimCenterExpo/qfem-0012
